@@ -1,9 +1,10 @@
-import 'package:face_auth/face_painter.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:camera/camera.dart';
 import 'package:google_ml_kit/google_ml_kit.dart';
+
+import 'widgets/face_painter.dart';
 
 class CameraScreen extends StatefulWidget {
 
